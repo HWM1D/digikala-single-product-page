@@ -1,6 +1,6 @@
-# digikala-single-product-page
+# single-product-page
 
-A compelete room chat (front-end) for your teams and friends <3
+A compelete single product page (front-end) for your teams and friends <3
 
 My social accounts :
 
